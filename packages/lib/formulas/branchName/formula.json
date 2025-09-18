@@ -5,6 +5,9 @@
   "arguments": [],
   "output": {
     "description": "Returns the name of the current branch.",
-    "type": { "type": "String" }
-  }
+    "type": {
+      "type": "String"
+    }
+  },
+  "mdnUrl": ""
 }

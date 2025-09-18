@@ -5,6 +5,9 @@
   "arguments": [],
   "output": {
     "description": "An array with the preferred languages for the user.",
-    "type": { "type": "Array" }
-  }
+    "type": {
+      "type": "Array"
+    }
+  },
+  "mdnUrl": ""
 }
